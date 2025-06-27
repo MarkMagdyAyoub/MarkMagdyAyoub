@@ -6,7 +6,7 @@
 
 I'm currently a third-year computer science student with a growing interest in backend development and system-level programming. I’ve been learning the fundamentals of computer science — including data structures, algorithms, operating systems, networks, and database systems — and trying to apply them through small projects, learning exercises, and problem solving.
 
-I enjoy understanding how things work beneath the surface. I'm still early in my journey, but I’m always looking for opportunities to learn more, build better, and grow as a developer.
+I enjoy understanding how things work beneath the surface. I'm still early in my journey, but I’m always looking for opportunities to learn more, build better, and grow as a software engineer.
 
 ---
 
