@@ -1,20 +1,29 @@
 👋 Hi, I'm Mark Magdy
+
 🎯 Aspiring Backend Developer | 💻 Curious Problem Solver | 🛠️ Always Learning
 
-🚀 About Me
+## About Me
+
 I'm currently a third-year computer science student with a growing interest in backend development and system-level programming. I’ve been learning the fundamentals of computer science — including data structures, algorithms, operating systems, networks, and database systems — and trying to apply them through small projects, learning exercises, and problem solving.
 
 I enjoy understanding how things work beneath the surface. I'm still early in my journey, but I’m always looking for opportunities to learn more, build better, and grow as a developer.
 
 ---
 
-🧠 Technical Skills
+###  🧠 Technical Skills
+
 Languages: C++ , C# , JavaScript
+
 Currently Learning: Rust for Systems Programming
+
 Backend: ASP.NET Core, Entity Framework Core, REST APIs
+
 Databases: MS SQL Server, MySQL, PostgreSQL
+
 Tools & IDEs: Visual Studio, VS Code, CLion, Git/GitHub
+
 Concepts: Object-Oriented Programming, software design principles, problem solving
+
 Soft Skills: Open to feedback, collaborative, responsible with time, and eager to improve
 
 ---
@@ -35,17 +44,28 @@ A Flutter app that connects customers with entertainment venue owners.
 A full-stack Q&A platform designed to make communication between people easier and more engaging, combining social media features with deep discussion capabilities.
 
 🧵 Threaded Commenting: Tree-structured replies like Reddit
-🏠 Dynamic Content Feed: Real-time homepage feed rendering the latest posts and interactions for improved user engagement
-👤 Customizable User Profiling: Users can manage personal data (gender, birthday, bio, profile picture) and view their own posts
-💬 Interactive Posting System: Users can ask questions, reply to posts or comments, and like both posts and replies
-🔐 Secure Authentication: Email/password login with strong password policy, Google OAuth 2.0 login, JWT-based session management, and BCrypt password hashing
-📱 Responsive Frontend: Built with Razor Pages, Bootstrap, and vanilla JS 
-🧰 Tech Stack:
-Backend: .NET Core 8 MVC, EF Core, PostgreSQL, JWT, Google OAuth 2.0, BCrypt
-Frontend: HTML, CSS, JavaScript, Bootstrap, Razor Pages
 
-👨‍💻 Why This Project?
+🏠 Dynamic Content Feed: Real-time homepage feed rendering the latest posts and interactions for improved user engagement
+
+👤 Customizable User Profiling: Users can manage personal data (gender, birthday, bio, profile picture) and view their own posts
+
+💬 Interactive Posting System: Users can ask questions, reply to posts or comments, and like both posts and replies
+
+🔐 Secure Authentication: Email/password login with strong password policy, Google OAuth 2.0 login, JWT-based session management, and BCrypt password hashing
+
+📱 Responsive Frontend: Built with Razor Pages, Bootstrap, and vanilla JS 
+
+🧰 Tech Stack:
+
+ - Backend: .NET Core 8 MVC, EF Core, PostgreSQL, JWT, Google OAuth 2.0, BCrypt
+
+ - Frontend: HTML, CSS, JavaScript, Bootstrap, Razor Pages
+
+
+#### 👨‍💻 Why This Project?
+
 As someone who enjoys understanding systems under the hood, TreeTalk was an opportunity to build a real-world web application that handles structured data, nested relations, secure authentication, and performance—key challenges in scalable web systems.
+
 ---
 
 ## 🏆 Competitive Programming
